@@ -1,0 +1,6 @@
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/bin/Debug/lab2_unit_test.exe
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/bin/Debug/lab2_unit_test.pdb
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/obj/anycpu/Debug/lab2_unit_test.csprojAssemblyReference.cache
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/obj/anycpu/Debug/lab2_unit_test.csproj.CoreCompileInputs.cache
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/obj/anycpu/Debug/lab2_unit_test.exe
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/lab2_unit_test/obj/anycpu/Debug/lab2_unit_test.pdb
