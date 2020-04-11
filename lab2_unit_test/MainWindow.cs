@@ -37,7 +37,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void onEqualClick(object sender, EventArgs e)
     {
-        handle();
+        //handle();
     }
 
 
@@ -52,7 +52,7 @@ public partial class MainWindow : Gtk.Window
             string operation = temp[1];
             if(operation == ".")
             {
-                double d1 = double.Parse(temp[0] + temp[1] + temp[2]);
+
             }
             double resultOperator = 0;
             switch (operation)
@@ -90,7 +90,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void onOperatorClick(object sender, EventArgs e)
     {
-        handle();
+        //handle();
             result.Text = result.Text + " " + (sender as Button).Label + " ";    
     }
 }

@@ -1,0 +1,9 @@
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/bin/Debug/netcoreapp3.1/CalLib.deps.json
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/bin/Debug/netcoreapp3.1/CalLib.dll
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/bin/Debug/netcoreapp3.1/CalLib.pdb
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.csprojAssemblyReference.cache
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.csproj.CoreCompileInputs.cache
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.AssemblyInfoInputs.cache
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.AssemblyInfo.cs
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.dll
+/Users/liya/workspace/kiem_thu_phan_mem/lab2_unit_test/CalLib/obj/Debug/netcoreapp3.1/CalLib.pdb

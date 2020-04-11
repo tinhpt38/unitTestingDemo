@@ -1,16 +1,36 @@
 ﻿<Properties StartupConfiguration="{74078C1A-FD21-43F6-B246-3D0954680578}|Default">
   <MonoDevelop.Ide.ItemProperties.lab2__unit__test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab2_unit_test/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestCalLib/UnitTest1.cs">
     <Files>
       <File FileName="lab2_unit_test/Program.cs" Line="13" Column="31" />
-      <File FileName="lab2_unit_test/MainWindow.cs" Line="55" Column="71" />
+      <File FileName="lab2_unit_test/MainWindow.cs" Line="86" Column="6" />
+      <File FileName="CalLib/Class1.cs" Line="10" Column="61" />
+      <File FileName="UnitTestCalLib/UnitTest1.cs" Line="37" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab2_unit_test" expanded="True">
-            <Node name="lab2_unit_test" expanded="True">
-              <Node name="MainWindow.cs" selected="True" />
+            <Node name="CalLib" expanded="True" />
+            <Node name="lab2_unit_test" expanded="True" />
+            <Node name="UnitTestCalLib" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab2_unit_test" expanded="True">
+            <Node name="UnitTestCalLib" expanded="True">
+              <Node name="UnitTestCalLib" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="TestSubtraction" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

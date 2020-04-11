@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_unit_test", "lab2_unit_test\lab2_unit_test.csproj", "{74078C1A-FD21-43F6-B246-3D0954680578}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalLib", "CalLib\CalLib.csproj", "{8ED1CC8A-9DE4-403A-A843-3F2DB407A90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCalLib", "UnitTestCalLib\UnitTestCalLib.csproj", "{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +17,13 @@ Global
 		{74078C1A-FD21-43F6-B246-3D0954680578}.Debug|anycpu.Build.0 = Debug|anycpu
 		{74078C1A-FD21-43F6-B246-3D0954680578}.Release|anycpu.ActiveCfg = Release|anycpu
 		{74078C1A-FD21-43F6-B246-3D0954680578}.Release|anycpu.Build.0 = Release|anycpu
+		{8ED1CC8A-9DE4-403A-A843-3F2DB407A90C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{8ED1CC8A-9DE4-403A-A843-3F2DB407A90C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{8ED1CC8A-9DE4-403A-A843-3F2DB407A90C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{8ED1CC8A-9DE4-403A-A843-3F2DB407A90C}.Release|anycpu.Build.0 = Release|Any CPU
+		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
