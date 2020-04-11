@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalLib", "CalLib\CalLib.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCalLib", "UnitTestCalLib\UnitTestCalLib.csproj", "{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{DF2B9E58-292B-4A6B-B081-4069866847EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +27,9 @@ Global
 		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{4E186E1B-0C52-4B30-8C21-67A2B2ABDDF9}.Release|anycpu.Build.0 = Release|Any CPU
+		{DF2B9E58-292B-4A6B-B081-4069866847EC}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{DF2B9E58-292B-4A6B-B081-4069866847EC}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{DF2B9E58-292B-4A6B-B081-4069866847EC}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{DF2B9E58-292B-4A6B-B081-4069866847EC}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

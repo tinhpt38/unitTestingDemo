@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{74078C1A-FD21-43F6-B246-3D0954680578}|Default">
   <MonoDevelop.Ide.ItemProperties.lab2__unit__test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestCalLib/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XUnitTest/UnitTest1.cs">
     <Files>
       <File FileName="lab2_unit_test/Program.cs" Line="13" Column="31" />
       <File FileName="lab2_unit_test/MainWindow.cs" Line="86" Column="6" />
-      <File FileName="CalLib/Class1.cs" Line="10" Column="61" />
-      <File FileName="UnitTestCalLib/UnitTest1.cs" Line="37" Column="39" />
+      <File FileName="CalLib/Class1.cs" Line="8" Column="23" />
+      <File FileName="XUnitTest/UnitTest1.cs" Line="50" Column="41" />
+      <File FileName="UnitTestCalLib/UnitTest1.cs" Line="72" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,6 +18,8 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="ProjectDependencies" expanded="True" />
               </Node>
+            </Node>
+            <Node name="XUnitTest" expanded="True">
               <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
@@ -25,10 +28,10 @@
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="lab2_unit_test" expanded="True">
-            <Node name="UnitTestCalLib" expanded="True">
-              <Node name="UnitTestCalLib" expanded="True">
+            <Node name="XUnitTest" expanded="True">
+              <Node name="XUnitTest" expanded="True">
                 <Node name="UnitTest1" expanded="True">
-                  <Node name="TestSubtraction" selected="True" />
+                  <Node name="TestSummation(a: 1, b: 2, expectResult: 3)" selected="True" />
                 </Node>
               </Node>
             </Node>
